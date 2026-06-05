@@ -50,7 +50,7 @@ This makes it useful for:
 ### From source
 
 ```bash
-git clone https://github.com/safe-cannels/emptystat.git
+git clone https://github.com/m1tm4n404/emptystat.git
 cd emptystat
 cargo build --release
 sudo cp target/release/emptystat /usr/local/bin/
